@@ -98,7 +98,7 @@ pip install streamlit pandas scikit-learn joblib matplotlib seaborn numpy
 
 ## 🙌 Author
 
-**Pramukh Prajapati**  
+**Aesha Patel**  
 Tool Wear Prediction App · 2025
 
 ---
